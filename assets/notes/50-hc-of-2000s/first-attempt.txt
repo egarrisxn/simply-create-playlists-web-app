@@ -1,0 +1,62 @@
+egarr@bluscreenbud MINGW64 ~/Projects/Vanilla/spotify/simply-create-playlists
+$ pnpm start playlist.txt "Top 50 Hardcore Albums of the 2000s" private
+
+> simply-create-playlists@1.0.0 start C:\Users\egarr\Projects\Vanilla\spotify\simply-create-playlists
+> tsx index.ts "playlist.txt" "Top 50 Hardcore Albums of the 2000s" "private"
+
+Auth server running on http://127.0.0.1:5173
+
+Created playlist: https://open.spotify.com/playlist/1QZWYE9CaaR97AS86rkxIz
+
+[1/50] American Nightmare - Background Music ... OK (11 tracks)
+[2/50] Angel Du$t - A.D. ... OK (12 tracks)
+[3/50] Backtrack - Lost In Life ... OK (12 tracks)
+[4/50] Bane - Don’t Wait Up ... OK (10 tracks)
+[5/50] Bitter End - Climate of Fear ... OK (11 tracks)
+[6/50] Blacklisted - No One Deserves to Be Here More Than Me ... OK (14 tracks)
+[7/50] Carry On - A Life Less Plagued ... OK (12 tracks)
+[8/50] Ceremony - Violence, Violence ... OK (20 tracks)
+[9/50] Code Orange - Forever ... OK (11 tracks)
+[10/50] Cold World - Dedicated to Babies Who Came Feet First ... OK (15 tracks)
+[11/50] Comeback Kid - Wake the Dead ... OK (11 tracks)
+[12/50] Converge - Jane Doe ... OK (12 tracks)
+[13/50] Cruel Hand - Lock and Key ... OK (10 tracks)
+[14/50] Defeater - Lost Ground ... OK (6 tracks)
+[15/50] Death Threat - Peace and Security ... OK (12 tracks)
+[16/50] Drain - California Cursed ... OK (10 tracks)
+[17/50] Down To Nothing - The Most ... OK (12 tracks)
+[18/50] Fiddlehead - Between the Richness ... OK (10 tracks)
+[19/50] Foundation - When The Smoke Clears ... OK (10 tracks)
+[20/50] Fury - Paramount ... OK (10 tracks)
+[21/50] Guns Up - Outlive ... OK (11 tracks)
+[22/50] Harm's Way - Rust ... OK (10 tracks)
+[23/50] Have Heart - Songs to Scream at the Sun ... OK (10 tracks)
+[24/50] Hatebreed - Perseverance ... OK (16 tracks)
+[25/50] Incendiary - Cost of Living ... OK (10 tracks)
+[26/50] Iron Age - Constant Struggle ... OK (10 tracks)
+[27/50] Jesus Piece - Only Self ... OK (10 tracks)
+[28/50] Kid Dynamite - Shorter, Faster, Louder ... OK (18 tracks)
+[29/50] Knocked Loose - A Different Shade of Blue ... OK (12 tracks)
+[30/50] Mental - Get an Oxygen Tank! ... OK (16 tracks)
+[31/50] Mindforce - Excalibur ... OK (11 tracks)
+[32/50] Modern Life Is War - Witness ... OK (9 tracks)
+[33/50] Mother of Mercy - Symptoms of Existence ... OK (10 tracks)
+[34/50] Nails - Unsilent Death ... OK (15 tracks)
+[35/50] No Warning - Ill Blood ... OK (12 tracks)
+[36/50] Poison the Well - Tear from the Red ... OK (10 tracks)
+[37/50] Power Trip - Nightmare Logic ... OK (8 tracks)
+[38/50] Rise and Fall - Our Circle Is Vicious ... OK (10 tracks)
+[39/50] Rotting Out - Street Prowl ... OK (11 tracks)
+[40/50] Ruiner - Prepare to Be Let Down ... OK (12 tracks)
+[41/50] Speed - Only One Mode ... OK (10 tracks)
+[42/50] The Hope Conspiracy - Death Knows Your Name ... OK (11 tracks)
+[43/50] The Rival Mob - Mob Justice ... OK (12 tracks)
+[44/50] Throwdown - Haymaker ... OK (14 tracks)
+[45/50] Terror - One with the Underdogs ... OK (15 tracks)
+[46/50] Touche Amore - Is Survived By ... OK (12 tracks)
+[47/50] Trapped Under Ice - Big Kiss Goodnight ... OK (13 tracks)
+[48/50] Turnstile - Glow On ... OK (15 tracks)
+[49/50] Verse - Aggression ... OK (12 tracks)
+[50/50] Walls of Jericho - All Hail the Dead ... OK (13 tracks)
+
+Done.

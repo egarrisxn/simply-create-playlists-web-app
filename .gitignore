@@ -1,0 +1,33 @@
+# ---- dependencies ----
+node_modules/
+
+# ---- build output ----
+dist/
+build/
+out/
+.cache/
+
+# ---- environment / secrets ----
+.env
+.env.*
+!.env.example
+
+# ---- logs ----
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- TypeScript ----
+*.tsbuildinfo
+
+# ---- misc ----
+*.tmp
+*.swp
