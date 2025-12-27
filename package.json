@@ -1,7 +1,7 @@
 {
   "name": "simply-create-playlists-web-app",
   "version": "1.0.0",
-  "description": "This web application will simplify the process of creating playlists. More details coming soon!",
+  "description": "This web app will simplify the process of creating playlists. More details coming soon!",
   "type": "module",
   "license": "MIT",
   "scripts": {
